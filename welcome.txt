@@ -1,4 +1,11 @@
 welcome in git
 
 Hello EveryOne..........
+
+linux commands
+bash
+for loop
+while loop
+
+
 thank you
