@@ -6,6 +6,6 @@ linux commands
 bash
 for loop
 while loop
-
+if else
 case statements 
 thank you
